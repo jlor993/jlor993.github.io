@@ -1,0 +1,4 @@
+Contact: mailto:jlor993@gmail.com
+Expires: 2021-10-23T14:00:00.000Z
+Preferred-Languages: en
+Canonical: https://jlor993.github.io/security.txt
