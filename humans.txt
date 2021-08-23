@@ -1,0 +1,8 @@
+/* Team */
+Your title: Jeffrey Lor
+Location: Des Plaines, IL
+
+/* SITE */
+Last update: 2021/08/23
+Standards: HTML5, CSS3
+Components: Modernizr, jQuery
