@@ -68,8 +68,31 @@ textarea {
   padding-left: 5%;
 }
 
-#left-indent {
-  padding-left: 5%;
+.bullet {
+  display: list-item;
+  margin-left: 5%;
+}
+
+.left-indent {
+  margin-left: 5%;
+}
+
+.listed-items {
+  margin: 0;
+  padding: 0;
+  margin-left: 5%;
+  display: list-item;
+}
+
+#minor-info {
+  text-align: center;
+  font-style: italic;
+}
+
+#condensed-table {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
