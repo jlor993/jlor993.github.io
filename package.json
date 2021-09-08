@@ -4,9 +4,7 @@
   "private": true,
   "homepage": "https://jlor993.github.io/memory-game",
   "scripts": {
-    "start": "gulp watch",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "gulp watch"
   },
   "dependencies": {
     "bootstrap": "^5.1.0"
